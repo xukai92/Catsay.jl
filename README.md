@@ -13,7 +13,7 @@
 
 ## Installation
 
-```
+```julia
 Pkg.add("Catsay")
 ```
 
