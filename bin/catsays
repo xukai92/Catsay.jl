@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+str=$1
+
+julia -e "using Catsays; catsays($1)"
