@@ -1,6 +1,6 @@
-module Catsays
+module Catsay
 
-function catsays(str)
+function catsay(str)
   l = length(str)
   println("   ____")
   println("  (.   \\           $(repeat("_", l + 2))")
@@ -12,6 +12,6 @@ function catsays(str)
   println("          '.,,/'.,,")#mrf
 end
 
-export catsays
+export catsay
 
 end # module
