@@ -17,8 +17,5 @@ matrix:
     - julia: nightly
   fast_finish: true
 
-after_success:
-  - julia -e 'Pkg.add("Coverage"); using Coverage; Codecov.submit(process_folder())'
-
 notifications:
   email: false
