@@ -1,7 +1,5 @@
 language: julia
 
-coveralls: true
-
 os:
   - osx
   - linux
