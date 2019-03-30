@@ -1,5 +1,7 @@
 # Catsay.jl
 
+[![Build Status](https://travis-ci.com/xukai92/Catsay.jl.svg?branch=master)](https://travis-ci.com/xukai92/Catsay.jl)
+
 ```
    ____
   (.   \           ______
