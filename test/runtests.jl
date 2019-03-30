@@ -1,6 +1,6 @@
 using Test, Catsay
 
-@test = begin
+@test begin
     catsay("hello")
     true
 end
