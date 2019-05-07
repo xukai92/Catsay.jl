@@ -2,4 +2,4 @@
 
 str=$1
 
-julia -e "using Catsay; catsay(\"$1\")"
+julia --color yes -e "using Catsay; catsay(\"$1\")"
