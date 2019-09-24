@@ -1,0 +1,7 @@
+name = "Catsay"
+uuid = "96eec65e-dec7-11e9-1440-8d484ce125f6"
+authors = ["Kai Xu <xukai921110@gmail.com>"]
+version = "0.1.0"
+
+[compat]
+julia = ">= 0.7"
