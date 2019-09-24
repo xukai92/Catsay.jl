@@ -1,5 +1,6 @@
 module Catsay
 
+# Adapted from arts in ASCII CATS: https://user.xmission.com/~emailbox/ascii_cats.htm
 function catsay(str)
   l = length(str)
   println("   ____")
