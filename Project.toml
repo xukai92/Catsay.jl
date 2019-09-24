@@ -5,3 +5,6 @@ version = "0.2.0"
 
 [compat]
 julia = ">= 0.7"
+
+[targets]
+test = ["Test"]
